@@ -1,4 +1,4 @@
-#!/bin/bash
+#####!/bin/bash
 # ---------------------------------------------------------------------
 # Multi-log generator for Promtail/Loki testing
 # Continuously writes random INFO, WARNING, and ERROR logs
